@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersecurity, app dev, web dev and competetive programming
 - 🌱 I’m currently learning flutter and dart.
 - 💞️ I’m looking to collaborate on any sort of project that requires my skill
-- 📫 How to reach me ...
+- 📫 How to reach me gauriverma026@gmail.com, itsgary20@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like to pet stray animals.
 
